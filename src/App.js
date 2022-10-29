@@ -76,7 +76,7 @@ const App = ({ match }) => {
       </header>
       <Row className="banner">
         <Col className="title">
-          <h1 className="d-flex flex-column justify-content-start tagline yellow">{capsules.length > 0 ? capsules[random].type : " "}</h1>
+          <h1 className="d-flex flex-column justify-content-start tagline yellow bold">{capsules.length > 0 ? capsules[random].type : " "}</h1>
           <h3 className="d-inline-flex flex-column justify-content-start description">{capsules.length > 0 ? capsules[random].details : " "}</h3>
         </Col>
         <Col className="d-flex justify-content-end">
@@ -84,7 +84,7 @@ const App = ({ match }) => {
         </Col>
       </Row>
       <Row className="d-inline-flex flex-row">
-        <h2 className="search yellow">Search Form</h2>
+        <h2 className="search yellow bold">Search Form</h2>
         <Form inline="true" className="d-flex m-auto" onSubmit={submitHandler}>
           <Row>
             <Col>
@@ -116,7 +116,7 @@ const App = ({ match }) => {
             </Row>
             <Row>
               <Col>
-                <h2 className="bold capsules justify-content-center">Capsules</h2>
+                <h2 className="bold capsules justify-content-center yellow">Capsules</h2>
               </Col>
             </Row>
           </Row>   

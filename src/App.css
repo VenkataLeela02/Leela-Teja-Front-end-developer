@@ -51,9 +51,9 @@
 }
 
 .search {
-  margin: 3%;
-  margin-top: 10%;
-  padding:5%;
+  padding: 5%;
+  margin-top: 25%;
+  margin-left: 0;
 }
 
 .inputs{
@@ -93,7 +93,6 @@
 }
 
 .capsules {
-  color: #5A5A5A;
   margin-bottom: 10%;
 }
 

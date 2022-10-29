@@ -13,7 +13,7 @@ export default function Capsule({capsule}) {
     {/* Card to display the capsules details */}
         <Card className="d-flex flex-row card justify-content-center" style={{ width: '10rem' }} onClick={handleShow}>
             <Card.Body>
-                <Card.Title className="card-title bold color">{capsule.capsule_serial}</Card.Title>
+                <Card.Title className="card-title bold yellow">{capsule.capsule_serial}</Card.Title>
                 <Card.Text className="bold">
                 {capsule.type}
                 </Card.Text>
