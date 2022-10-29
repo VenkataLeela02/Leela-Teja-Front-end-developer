@@ -11,9 +11,9 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 Install the following dependencies before starting the project
 
-npm install react-bootstrap bootstrap.\
-npm install sass.\
-npm install axios.\
+npm install react-bootstrap bootstrap\
+npm install sass\
+npm install axios\
 npm install react-router-dom
 
 In the project directory, you can run:
