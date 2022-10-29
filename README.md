@@ -6,7 +6,15 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Video URL 
 
-[https://screenapp.io/#/shared/adc874d2-7ed1-44d8-8a70-adbe09619e19](https://screenapp.io/#/shared/64ca42dc-3c7f-468b-bae9-fd8feb164faa)
+[[https://screenapp.io/#/shared/adc874d2-7ed1-44d8-8a70-adbe09619e19](https://screenapp.io/#/shared/64ca42dc-3c7f-468b-bae9-fd8feb164faa)
+](https://screenapp.io/#/shared/b624d4b5-fe5d-4cbd-a11d-098283a13df6)
+
+Install the following dependencies before starting the project
+
+npm install react-bootstrap bootstrap
+npm install sass
+npm install axios
+npm install react-router-dom
 
 In the project directory, you can run:
 
