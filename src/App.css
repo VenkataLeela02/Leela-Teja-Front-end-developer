@@ -2,37 +2,101 @@
   text-align: center;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
 .App-header {
-  background-color: #282c34;
-  min-height: 100vh;
+  background-color: #202A44;
+  min-height: 10vh;
   display: flex;
   flex-direction: column;
-  align-items: center;
   justify-content: center;
   font-size: calc(10px + 2vmin);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.brand {
+  text-decoration: none;
+  letter-spacing: 1px;
+  display: flex;
+  flex-direction: row;
+  align-items: left;
+  margin-left: 50px;
+  text-decoration: bold;
+  font-size: 20px;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.white {
+  color: white;
+}
+
+.banner { 
+  width: 100%;
+  height: 15%;
+  display: flex;
+  flex-direction: row;
+}
+
+.title {
+  margin: 14%;
+  margin-top: 10%;
+  width: 500px;
+  color: #5A5A5A;
+}
+
+.description {
+  width: auto;
+  color: #5A5A5A;
+}
+
+.tagline {
+  margin-top: 45%;
+}
+
+.search {
+  margin: 3%;
+  margin-top: 10%;
+  padding:5%;
+}
+
+.inputs{
+  padding: 2%;
+}
+
+.image {
+  border: 5px solid grey;
+  border-radius: 5px;
+  margin-top: 15%;
+  margin-right:15%;
+}
+
+.margin {
+  margin-bottom: 20%;
+}
+
+.yellow {
+  color: #ffa500;
+}
+
+.card {
+  border: 1px solid grey;
+  box-shadow: 3px 3px 3px 3px grey;
+  margin: 5%;
+  padding: 5%;
+  float:left;
+  color: #5A5A5A;
+}
+
+.bold {
+  font-weight: bold;
+}
+
+.submit {
+  margin:10%;
+}
+
+.capsules {
+  color: #5A5A5A;
+  margin-bottom: 10%;
+}
+
+.pagination-bar {
+  margin-top: 5%;
 }
