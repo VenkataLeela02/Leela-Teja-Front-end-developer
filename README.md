@@ -6,7 +6,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Project Video URL 
 
-](https://screenapp.io/#/shared/b624d4b5-fe5d-4cbd-a11d-098283a13df6)
+(https://screenapp.io/#/shared/b624d4b5-fe5d-4cbd-a11d-098283a13df6)
 
 Install the following dependencies before starting the project
 
